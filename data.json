@@ -1,0 +1,10 @@
+[
+    {
+        "username": "exampleUser",
+        "token": "exampleToken123"
+    },
+    {
+        "username": "testUser",
+        "token": "testToken456"
+    }
+]
